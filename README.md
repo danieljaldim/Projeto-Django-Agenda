@@ -17,7 +17,7 @@ Uma aplicação web de agenda de contatos / compromissos desenvolvida com **Djan
 
 - Python  
 - Django  
-- SQLite (ou outro banco, dependendo da configuração)  
+- SQLite (pode ser adaptado para outros bancos de dados)  
 - Bootstrap / CSS (se aplicável)  
 - Outras dependências (ver `requirements.txt`)  
 
